@@ -31,16 +31,13 @@
     <li>
       <a href="#Install">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Install">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#start">How to start</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
+	<li><a href="#contributing">Contributing</a></li>
   </ol>
 </details>
 
@@ -81,14 +78,14 @@ pip install
 
 
 
-## 📌 How to start
+## 📌 How to start <a name = "start"></a>
 
 ### Usage :
 - After compiling the project , try to load the desired file (M2D ,2D,3D) using the **Open DICOM File** button
 - Click **View All DICOM Tags** to view all tags 
 - You can use search for a specifec keyword in the tags 
 
-## 🎆 Features
+## 🎆 Features <a name = "features"></a>
 
 - Loading multi-files ~> M2d , 3D, 2d
 - Viewing 3d as tiles / video
@@ -100,7 +97,7 @@ pip install
 - Displaying the current status on a customized textbox
 - Modern Flat-UI 
 
-## 📷 Screenshots
+## 📷 Screenshots <a name = "screenshots" ></a>
 
 <div name="Screenshots" align="center">
    <img width=60% src="Screenshots/Screenshot_4.png" alt="logo">
