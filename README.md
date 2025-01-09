@@ -38,7 +38,7 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 4. **install dependencies**
 ```
 pip install 
-``
+```
 
 5. **Build the project**
 
