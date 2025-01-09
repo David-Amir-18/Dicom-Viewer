@@ -29,15 +29,15 @@
       </ul>
     </li>
     <li>
-      <a href="#Install">Getting Started</a>
+      <a href="#install">Getting Started</a>
       <ul>
-        <li><a href="#Install">Installation</a></li>
+        <li><a href="#install">Installation</a></li>
       </ul>
     </li>
     <li><a href="#start">How to start</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
-	<li><a href="#contributing">Contributing</a></li>
+	<li><a href="#contributors">Contributors</a></li>
   </ol>
 </details>
 
@@ -56,7 +56,7 @@
 
 
 
-## 🏁 Get Started /Installation <a name = "Install"></a>
+## 🏁 Get Started /Installation <a name = "install"></a>
 1. **Clone the repository**
 ```
 git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
@@ -112,7 +112,7 @@ pip install
    <hr>
 </div>
 
-## Contributors
+## Contributors <a name = "contributors"></a>
 <table align="center">
   <tr>
     <td align="center">
