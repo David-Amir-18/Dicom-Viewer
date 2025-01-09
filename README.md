@@ -25,7 +25,7 @@
     <li>
       <a href="#about">About The Project</a>
       <ul>
-        <li><a href="#built-using">Built Using</a></li>
+        <li><a href="#tech">Built Using</a></li>
       </ul>
     </li>
     <li>
