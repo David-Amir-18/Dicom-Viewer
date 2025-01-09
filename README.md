@@ -43,7 +43,7 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 
 
 ## 💻 Built Using <a name = "tech"></a>
-- [Python]()
+- [Python][https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54]
 - [numpy](https://numpy.org/)
 - [pydicom](https://pydicom.github.io/)
 - [matplotlib](https://matplotlib.org/)
@@ -65,6 +65,7 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 - Ability to search for a specifec keyword
 - Anonomyzing the values of selected keywords by appending a constant prefix
 - Filtering unnecessary keywords
+- Displaying the current status on a customized textbox
 - Modern Flat-UI 
 
 ## 📷 Screenshots
