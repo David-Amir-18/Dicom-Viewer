@@ -21,8 +21,8 @@
 
 ## About
 
- Help the Snail to return to its home after being lost in the galaxy.
- Help him by avoid collision with Mr Craps and Make him get more coins to get new high score.
+ Advanced Dicom Viewer with multiple features 
+ Simplified interface for viewing/displaying data .
 
 
 ## 🏁 Get Started <a name = "Install"></a>
@@ -84,7 +84,7 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
     </td>
     <td align="center">
     <a href="https://github.com/Karim-Mohamed-Elsayed" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/76243256?v=4" width="100px;" alt="Karim Mohamed"/>
+    <img src="https://avatars.githubusercontent.com/u/183163245?v=4" width="100px;" alt="Karim Mohamed"/>
     <br />
     <sub><b>Karim Mohamed</b></sub></a>
     </td>
