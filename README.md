@@ -28,9 +28,9 @@
 ## 🏁 Get Started <a name = "Install"></a>
 1. **Clone the repository**
 ```
-git clone https://github.com/mhmdahmedfathi/The-lost-Snail
+git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 ```
-2. **Install Visual Studio Code**
+2. **Install Visual Studio Code || PyCharm **
 
 
 3. **Open the folder in Visual Studio Code**
@@ -39,31 +39,22 @@ git clone https://github.com/mhmdahmedfathi/The-lost-Snail
 4. **Build the project**
 
 
-4. **Open a terminal (Terminal > New Terminal)**
+5. **You can run through**
 
-
-5. **Run this Command**
-```
-.\bin\GAME_APPLICATION.exe
-```
 
 ## 💻 Built Using <a name = "tech"></a>
-- [C++]()
-- [OpenGL](https://www.opengl.org/)
+- [Python]()
+- [numpy](https://numpy.org/)
+- [pydicom](https://pydicom.github.io/)
+- [matplotlib](https://matplotlib.org/)
+- [PyQt5]()
 
-## 🎮How to play
+## 💻 How to start
 
-### use
-
-- Use *←* to move left.
-- Use *→* to move right.
-
-## or you can use
-
-- Use *A* to move left.
-- Use *D* to move right.
-
-## 📷 Demo
+### Usage :
+-After compiling the project , try to load the desired file (M2D ,2D,3D) using the **Open DICOM File** button
+-Click **View All DICOM Tags** to view all tags 
+-You can use search for a specifec keyword in the tags 
 
 
 https://user-images.githubusercontent.com/76264155/172195072-79e177ed-3324-41ba-978c-be8727d757c9.mp4
