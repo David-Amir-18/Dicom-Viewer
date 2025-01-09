@@ -63,13 +63,13 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 <div name="Screenshots" align="center">
    <img width=60% src="Screenshots/Screenshot_4.png" alt="logo">
    <hr>
-    <img width=25% src="Screenshots/Screenshot_3.png" alt="logo">
+    <img width=60% src="Screenshots/Screenshot_3.png" alt="logo">
     <hr>
   
-   <img width=50% src="Screenshots/Screenshot_2.png" alt="logo">
+   <img width=60% src="Screenshots/Screenshot_2.png" alt="logo">
    <hr>
   
-   <img width=75% src="Screenshots/Screenshot_1.png" alt="logo">
+   <img width=60% src="Screenshots/Screenshot_1.png" alt="logo">
    <hr>
 </div>
 
@@ -77,28 +77,23 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 <table align="center">
   <tr>
     <td align="center">
-    <a href="https://github.com/mariemzayn18" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/76264155?v=4" width="100px;" alt="Mariem Muhammed"/>
+    <a href="https://github.com/hamdy-cufe-eng" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/183446123?s=96&v=4" width="100px;" alt="Hamdy Ahmed"/>
     <br />
-    <sub><b>Mariem Muhammed</b></sub></a>
+    <sub><b>Hamdy Ahmed</b></sub></a>
     </td>
     <td align="center">
-    <a href="https://github.com/Marim1611" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/76243256?v=4" width="100px;" alt="Marim Naser"/>
+    <a href="https://github.com/Karim-Mohamed-Elsayed" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/76243256?v=4" width="100px;" alt="Karim Mohamed"/>
     <br />
-    <sub><b>Marim Naser</b></sub></a>
+    <sub><b>Karim Mohamed</b></sub></a>
     </td>
      <td align="center">
-    <a href="https://github.com/abeerhbadr" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/56753821?v=4" width="100px;" alt="Abeer Hussein"/>
+    <a href="https://github.com/David-Amir-18" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/183446535?v=4" width="100px;" alt="David Amir"/>
     <br />
-    <sub><b>Abeer Hussein</b></sub></a>
+    <sub><b>David Amir</b></sub></a>
     </td>
-     <td align="center">
-    <a href="https://github.com/mhmdahmedfathi" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/52926511?v=4" width="100px;" alt="Mohamed Ahmed"/>
-    <br />
-    <sub><b>Mohamed Ahmed</b></sub></a>
-    </td>
+    
   </tr>
  </table>
