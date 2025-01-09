@@ -25,7 +25,7 @@
     <li>
       <a href="#about">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-using">Built Using</a></li>
       </ul>
     </li>
     <li>
@@ -50,6 +50,13 @@
  Advanced Dicom Viewer with multiple features, 
  Simplified interface for viewing/displaying data .
 
+## 💻 Built Using <a name = "tech"></a>
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+* ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- [pydicom](https://pydicom.github.io/)
+- [PyQt5]()
+
 
 
 ## 🏁 Get Started /Installation <a name = "Install"></a>
@@ -73,12 +80,6 @@ pip install
 6. **You can run through**
 
 
-## 💻 Built Using <a name = "tech"></a>
-* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-* ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-* ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-- [pydicom](https://pydicom.github.io/)
-- [PyQt5]()
 
 ## 📌 How to start
 
