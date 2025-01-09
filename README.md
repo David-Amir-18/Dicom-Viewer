@@ -78,7 +78,7 @@ pip install
 
 
 
-## 📌 How to start <a name = "start"></a>
+## 📌 How to use <a name = "start"></a>
 
 ### Usage :
 - After compiling the project , try to load the desired file (M2D ,2D,3D) using the **Open DICOM File** button
