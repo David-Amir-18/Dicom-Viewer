@@ -30,7 +30,7 @@
 ```
 git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 ```
-2. **Install Visual Studio Code || PyCharm **
+2. **Install Visual Studio Code || PyCharm**
 
 
 3. **Open the folder in Visual Studio Code**
@@ -52,9 +52,9 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 ## 💻 How to start
 
 ### Usage :
--After compiling the project , try to load the desired file (M2D ,2D,3D) using the **Open DICOM File** button
--Click **View All DICOM Tags** to view all tags 
--You can use search for a specifec keyword in the tags 
+- After compiling the project , try to load the desired file (M2D ,2D,3D) using the **Open DICOM File** button
+- Click **View All DICOM Tags** to view all tags 
+- You can use search for a specifec keyword in the tags 
 
 
 https://user-images.githubusercontent.com/76264155/172195072-79e177ed-3324-41ba-978c-be8727d757c9.mp4
