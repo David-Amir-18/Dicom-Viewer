@@ -61,15 +61,15 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 ## 📷 Screenshots
 
 <div name="Screenshots" align="center">
-   <img width=100% src="Screenshots/Screenshot_4.png" alt="logo">
+   <img width=60% src="Screenshots/Screenshot_4.png" alt="logo">
    <hr>
-    <img width=100% src="Screenshots/Screenshot_3.png" alt="logo">
+    <img width=25% src="Screenshots/Screenshot_3.png" alt="logo">
     <hr>
   
-   <img width=100% src="Screenshots/Screenshot_2.png" alt="logo">
+   <img width=50% src="Screenshots/Screenshot_2.png" alt="logo">
    <hr>
   
-   <img width=100% src="Screenshots/Screenshot_1.png" alt="logo">
+   <img width=75% src="Screenshots/Screenshot_1.png" alt="logo">
    <hr>
 </div>
 
