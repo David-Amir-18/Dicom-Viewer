@@ -25,7 +25,7 @@
  Simplified interface for viewing/displaying data .
 
 
-## 🏁 Get Started <a name = "Install"></a>
+## 🏁 Get Started /Installation <a name = "Install"></a>
 1. **Clone the repository**
 ```
 git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
@@ -33,17 +33,21 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 2. **Install Visual Studio Code || PyCharm**
 
 
-3. **Open the folder in Visual Studio Code**
+3. **Open the folder in IDE**
+
+4. **install dependencies**
+```
+pip install 
+``
+
+5. **Build the project**
 
 
-4. **Build the project**
-
-
-5. **You can run through**
+6. **You can run through**
 
 
 ## 💻 Built Using <a name = "tech"></a>
-* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 * ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 - [pydicom](https://pydicom.github.io/)
