@@ -43,7 +43,7 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 
 
 ## 💻 Built Using <a name = "tech"></a>
-* [![Python][Next.js]][Next-url]
+* [![Next][Next.js]][Next-url]
 - [numpy](https://numpy.org/)
 - [pydicom](https://pydicom.github.io/)
 - [matplotlib](https://matplotlib.org/)
