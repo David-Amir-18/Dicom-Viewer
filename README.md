@@ -21,7 +21,7 @@
 
 ## About
 
- Advanced Dicom Viewer with multiple features 
+ Advanced Dicom Viewer with multiple features, 
  Simplified interface for viewing/displaying data .
 
 
@@ -49,14 +49,23 @@ git clone https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
 - [matplotlib](https://matplotlib.org/)
 - [PyQt5]()
 
-## 💻 How to start
+## 📌 How to start
 
 ### Usage :
 - After compiling the project , try to load the desired file (M2D ,2D,3D) using the **Open DICOM File** button
 - Click **View All DICOM Tags** to view all tags 
 - You can use search for a specifec keyword in the tags 
 
+## 🎆 Features
 
+- Loading multi-files ~> M2d , 3D, 2d
+- Viewing 3d as tiles / video
+- Viewing M2d as video playback (ability to auto-startover) and 2D as Image
+- Viewing Patient info by group tags , Meta ,Equipment,Image ,etc by adding keywords to array
+- Ability to search for a specifec keyword
+- Anonomyzing the values of selected keywords by appending a constant prefix
+- Filtering unnecessary keywords
+- Modern Flat-UI 
 
 ## 📷 Screenshots
 
