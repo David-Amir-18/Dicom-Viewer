@@ -1,13 +1,3 @@
-# Dicom-Viewer
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 <p align="center">
   <a href="" rel="noopener">
@@ -21,11 +11,11 @@
 </p>
 <div align="center">
 
-[![GitHub contributors](https://img.shields.io/github/contributors/mhmdahmedfathi/The-lost-Snail)](https://github.com/mhmdahmedfathi/The-lost-Snail/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/mhmdahmedfathi/The-lost-Snail)](https://github.com/mhmdahmedfathi/The-lost-Snail/issues)
-[![GitHub forks](https://img.shields.io/github/forks/mhmdahmedfathi/The-lost-Snail)](https://github.com/mhmdahmedfathi/The-lost-Snail/network)
-[![GitHub stars](https://img.shields.io/github/stars/mhmdahmedfathi/The-lost-Snail)](https://github.com/mhmdahmedfathi/The-lost-Snail/stargazers)
-[![GitHub license](https://img.shields.io/github/license/mhmdahmedfathi/The-lost-Snail)](https://github.com/mhmdahmedfathi/The-lost-Snail/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/hamdy-cufe-eng/Dicom-Viewer)](https://github.com/hamdy-cufe-eng/Dicom-Viewer/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/hamdy-cufe-eng/Dicom-Viewer)](https://github.com/hamdy-cufe-eng/Dicom-Viewer/issues)
+[![GitHub forks](https://img.shields.io/github/forks/hamdy-cufe-eng/Dicom-Viewer)](https://github.com/hamdy-cufe-eng/Dicom-Viewer/network)
+[![GitHub stars](https://img.shields.io/github/stars/hamdy-cufe-eng/Dicom-Viewer)](https://github.com/hamdy-cufe-eng/Dicom-Viewer/stargazers)
+[![GitHub license](https://img.shields.io/github/license/hamdy-cufe-eng/Dicom-Viewer)](https://github.com/hamdy-cufe-eng/Dicom-Viewer/blob/main/LICENSE)
 
 </div>
 
@@ -135,4 +125,3 @@ https://user-images.githubusercontent.com/76264155/172195072-79e177ed-3324-41ba-
     </td>
   </tr>
  </table>
-
