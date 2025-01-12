@@ -11,6 +11,7 @@ from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.colors import rgb2hex
 from matplotlib.figure import Figure
 
+# TileViewer for 3d files 
 class TileViewer(QMainWindow):
     def __init__(self, frames):
         super().__init__()
